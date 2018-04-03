@@ -20,7 +20,7 @@ div.container {
 header, footer {
     padding: 1em;
     color: white;
-    background-color: blue;
+    background-color: white;
     clear: left;
     text-align: center;
 }
@@ -43,7 +43,7 @@ nav ul a {
 
 article {
     margin-left: 170px;
-    border-left: 1px solid blue;
+    border-left: 1px solid white;
     padding: 1em;
     overflow: hidden;
 }
